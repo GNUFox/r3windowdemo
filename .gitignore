@@ -28,3 +28,8 @@ fp-info-cache
 *.xml
 *.csv
 
+
+# LTSpice Files
+*.op.raw
+*.raw
+*.log
