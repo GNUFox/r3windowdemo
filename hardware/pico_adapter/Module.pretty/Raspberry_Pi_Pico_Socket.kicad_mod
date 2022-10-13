@@ -218,7 +218,6 @@
       (xy -0.61 -1.37)
       (xy 19.39 -1.37)
     ) (layer "F.Fab") (width 0.1) (fill none) (tstamp 48f149a9-9395-4235-9626-89d5af90fbe2))
-  (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 2cf2fb56-1fda-405e-be40-225466faccec))
   (pad "1" thru_hole custom (at 0 0) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask)
     (options (clearance convexhull) (anchor circle))
     (primitives
